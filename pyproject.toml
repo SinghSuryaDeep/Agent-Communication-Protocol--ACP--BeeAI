@@ -1,0 +1,28 @@
+[project]
+name = "acp"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "acp-sdk>=0.8.1",
+    #"langchain-openai>=0.3.0,<0.4.0",
+    "beeai-framework>=0.1.17",
+    "pydantic-settings>=2.9.0",
+    "beeai-framework[duckduckgo,wikipedia]>=0.1.17",
+    #"crewai[tools]>=0.95.0",
+    "langchain-community>=0.3.20",
+    "langchain-core>=0.3.45",
+    "langchain-ibm>=0.3.8",
+    "langchain-mcp-adapters>=0.0.5",
+    #"langchain-openai>=0.3.9",
+    "langgraph>=0.3.16",
+    "crewai>=0.95.0",
+    "crewai-tools>=0.33.0",
+    "sentence-transformers",
+    "langchain_huggingface",
+    "wikipedia",
+    "mcp>=1.7.1",
+    "colorama>=0.4.6",
+    "langchain-tavily"
+]
