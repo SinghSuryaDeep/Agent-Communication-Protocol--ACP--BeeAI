@@ -1,10 +1,10 @@
 # Agent-Communication-Protocol--ACP--BeeAI
 
-# 🧠 AI-Driven Marketing Content Workflow using IBM BeeAI + Agent Communication Protocol (ACP)
+# 🧠 AI-Driven Marketing Content Workflow using IBM BeeAI + Agent Communication Protocol (ACP) + IBM watsonx
 
 ## 📌 Overview
 
-This repository demonstrates a **multi-agent system** powered by **IBM BeeAI** using **Agent Communication Protocol (ACP)**. The system is designed to automate **marketing content creation**, combining real-time market research and creative content generation through two specialized agents.
+This repository demonstrates a **multi-agent system** powered by **IBM BeeAI** using **Agent Communication Protocol (ACP)** and **IBM watsonx**. The system is designed to automate **marketing content creation**, combining real-time market research and creative content generation through two specialized agents.
 
 ### 👥 Agents Involved
 
